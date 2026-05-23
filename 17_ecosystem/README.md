@@ -10,7 +10,7 @@
 同時，Docker 自身的生態也在向雲構建、AI 本地推理和企業級桌面安全擴充套件。當前需要額外關注：
 
 * **Docker Model Runner**：在 Docker Desktop / Docker Engine 中管理、執行和服務本地 AI 模型，支援 OpenAI 與 Ollama 相容 API，並可將 GGUF、Safetensors 等模型檔案作為 OCI Artifact 管理。
-* **Docker Build Cloud**：透過遠端 BuildKit 和共享構建快取加速本地與 CI 構建，適合多平臺映像檔和團隊共享快取場景。
+* **Docker Build Cloud**：透過遠端 BuildKit 和共享構建快取加速本地與 CI 構建，適合多平臺映像檔和團隊共享快取情境。
 * **Docker Offload**：把容器構建和執行解除安裝到雲端，適合 VDI、受限本機或不支援巢狀虛擬化的開發環境。
 * **Hardened Docker Desktop / Enhanced Container Isolation (ECI)**：透過更強的名稱空間隔離、敏感掛載保護和系統呼叫限制降低桌面容器逃逸風險。
 

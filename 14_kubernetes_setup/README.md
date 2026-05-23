@@ -17,4 +17,4 @@
 除了上述方式，企業生產環境中還有兩個常見的部署工具值得關注：
 
 * **[KubeKey](https://github.com/kubesphere/kubekey)**：KubeSphere 社群開源的叢集部署工具（CNCF 認證），支援一條命令從裸機部署到高可用叢集，內建對 containerd 和多 Linux 發行版的適配，適合需要快速搭建私有化 Kubernetes 的團隊。
-* **[RKE2](https://docs.rke2.io/)**：SUSE Rancher 出品的安全加固型 Kubernetes 發行版，預設啟用 CIS 基準合規、SELinux 支援和 etcd 自動快照，適合對安全審計有嚴格要求的企業場景。
+* **[RKE2](https://docs.rke2.io/)**：SUSE Rancher 出品的安全加固型 Kubernetes 發行版，預設啟用 CIS 基準合規、SELinux 支援和 etcd 自動快照，適合對安全審計有嚴格要求的企業情境。

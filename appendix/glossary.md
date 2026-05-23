@@ -5,7 +5,7 @@
 ## A
 
 * **Alpine**：一個輕量級的 Linux 發行版，常作為基礎映像檔用於構建體積較小的 Docker 映像檔。
-* **API (Application Programming Interface)**：應用程式程式設計介面，Docker Daemon 提供 RESTful API 供客戶端或外部程式與之互動。
+* **API (Application Programming Interface)**：應用程式程式設計介面，Docker Daemon 提供 RESTful API 供用戶端或外部程式與之互動。
 
 ## B
 
@@ -25,7 +25,7 @@
 
 * **Daemon (守護程序)**：Docker 的後臺守護程序，負責接收和處理 Docker API 請求，並管理映像檔、容器、網路和資料卷等物件。
 * **Docker**：開源的應用容器引擎，讓開發者可以打包應用程式及其依賴包到一個可移植的容器中，然後釋出到任何流行的 Linux 或 Windows 機器上。
-* **Docker Desktop**：包含 Docker Engine、Docker CLI 客戶端、Docker Compose 和 Kubernetes 等的桌面應用程式，適用於 macOS 和 Windows。
+* **Docker Desktop**：包含 Docker Engine、Docker CLI 用戶端、Docker Compose 和 Kubernetes 等的桌面應用程式，適用於 macOS 和 Windows。
 * **Docker Hub**：Docker 官方的公共映像檔倉庫服務，提供容器映像檔的儲存和分發。
 * **Dockerfile**：包含用於組合映像檔的命令的文字檔案，Docker 透過讀取 `Dockerfile` 中的指令即可自動完成映像檔構建。
 

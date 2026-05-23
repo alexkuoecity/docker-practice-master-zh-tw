@@ -155,7 +155,7 @@ lrwxrwxrwx. 1 root root 15 11月 17 13:43 docker -> /storage/docker
 答：兩者的定位完全不同。
 
 * Vagrant 類似 Boot2Docker (一款執行 Docker 的最小核心)，是一套虛擬機器的管理環境。Vagrant 可以在多種系統上和虛擬機器軟體中執行，可以在 Windows，Mac 等非 Linux 平臺上為 Docker 提供支援，自身具有較好的包裝性和移植性。
-* 原生的 Docker 自身只能執行在 Linux 平臺上，但啟動和執行的效能都比虛擬機器要快，往往更適合快速開發和部署應用的場景。
+* 原生的 Docker 自身只能執行在 Linux 平臺上，但啟動和執行的效能都比虛擬機器要快，往往更適合快速開發和部署應用的情境。
 
 簡單說：Vagrant 適合用來管理虛擬機器，而 Docker 適合用來管理應用環境。
 

@@ -34,7 +34,7 @@ flowchart LR
 * [控制組](18.2_control_group.md)
   * 透過 Cgroups 限制容器資源使用，防止資源耗盡攻擊。
 
-* [服務端防護](18.3_daemon_sec.md)
+* [伺服器端防護](18.3_daemon_sec.md)
   * Docker 守護程序的安全配置與網路訪問控制。
 
 * [核心能力機制](18.4_kernel_capability.md)

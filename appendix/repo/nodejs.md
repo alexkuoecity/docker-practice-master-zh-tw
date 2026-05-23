@@ -2,7 +2,7 @@
 
 ### 基本資訊
 
-[Node.js](https://en.wikipedia.org/wiki/Node.js) 是基於 JavaScript 的可擴充套件服務端和網路軟體開發平臺。
+[Node.js](https://en.wikipedia.org/wiki/Node.js) 是基於 JavaScript 的可擴充套件伺服器端和網路軟體開發平臺。
 
 該倉庫位於 `https://hub.docker.com/_/node/`。具體可用版本以 Docker Hub 上的 tags 列表為準。
 

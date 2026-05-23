@@ -29,7 +29,7 @@ Docker Engine 主要提供 `stable` 和 `test` 兩個更新頻道；`test.docker
 - **安裝過程**：使用阿里雲、騰訊雲等國內映像檔源
 - **映像檔拉取**：安裝完成後配置 Docker 映像檔加速器（詳見 [3.9 映像檔加速器](3.9_mirror.md)），這一步對日常開發的體驗提升最明顯
 
-### 特殊場景
+### 特殊情境
 
 - **Raspberry Pi/ARM 平臺**：見 [3.5 Raspberry Pi](3.5_raspberry-pi.md)
 - **離線環境**：見 [3.6 Linux 離線安裝](3.6_offline.md)

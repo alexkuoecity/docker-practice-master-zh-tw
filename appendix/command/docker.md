@@ -1,8 +1,8 @@
-## 客戶端命令 - docker
+## 用戶端命令 - docker
 
-### 客戶端命令選項
+### 用戶端命令選項
 
-* `--config=""`：指定客戶端配置檔案，預設為 `~/.docker`；
+* `--config=""`：指定用戶端配置檔案，預設為 `~/.docker`；
 * `-D=true|false`：是否使用 debug 模式。預設不開啟；
 * `-H, --host=[]`：指定命令對應 Docker 守護程序的監聽介面，可以為 unix 套接字 `unix:///path/to/socket`，檔案控制代碼 `fd://socketfd` 或 tcp 套接字 `tcp://[host[:port]]`，預設為 `unix:///var/run/docker.sock`；
 * `-l, --log-level="debug|info|warn|error|fatal"`：指定日誌輸出級別；
@@ -12,7 +12,7 @@
 * `--tlskey=/.docker/key.pem`：TLS 金鑰檔案路徑；
 * `--tlsverify=true|false`：啟用 TLS 校驗，預設為否。
 
-### 客戶端命令
+### 用戶端命令
 
 可以透過 `docker COMMAND --help` 來檢視這些命令的具體用法。
 
@@ -22,7 +22,7 @@
 * `cp`：在容器和本地宿主系統之間複製檔案中；
 * `create`：建立一個新容器，但並不執行它；
 * `diff`：檢查一個容器內檔案系統的修改，包括修改和增加；
-* `events`：從服務端獲取實時的事件；
+* `events`：從伺服器端獲取實時的事件；
 * `exec`：在執行的容器內執行命令；
 * `export`：匯出容器內容為一個 `tar` 包；
 * `history`：顯示一個映像檔的歷史資訊；
@@ -64,11 +64,11 @@
 
 ### 一張圖總結 Docker 的命令
 
-如圖 16-1 所示，Docker 常用客戶端命令可按功能分組理解。
+如圖 16-1 所示，Docker 常用用戶端命令可按功能分組理解。
 
 ![Docker 命令總結](../../_images/cmd_logic.jpg)
 
-圖 A-1：Docker 客戶端命令分類示意圖
+圖 A-1：Docker 用戶端命令分類示意圖
 
 ### 參考
 

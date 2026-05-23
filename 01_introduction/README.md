@@ -2,7 +2,7 @@
 
 本章將帶領你進入 **Docker** 的世界。
 
-> **版本提示**：本書內容及示例基於 **Docker Engine v29.x** 及以上版本。值得注意的是，自 Docker Engine v29 起，官方在全新安裝場景下 **預設啟用 `containerd image store` 作為映像檔儲存後端**（取代傳統 classic store 路徑下的 graph driver 體系）。這項底層革新極大增強了 Docker 對多架構映像檔（Multi-platform）以及軟體供應鏈安全後設資料（Attestations, SBOM, Provenance）的本地支援原生性。
+> **版本提示**：本書內容及示例基於 **Docker Engine v29.x** 及以上版本。值得注意的是，自 Docker Engine v29 起，官方在全新安裝情境下 **預設啟用 `containerd image store` 作為映像檔儲存後端**（取代傳統 classic store 路徑下的 graph driver 體系）。這項底層革新極大增強了 Docker 對多架構映像檔（Multi-platform）以及軟體供應鏈安全後設資料（Attestations, SBOM, Provenance）的本地支援原生性。
 
 ## 本章內容
 

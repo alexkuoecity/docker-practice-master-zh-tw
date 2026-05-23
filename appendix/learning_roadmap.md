@@ -592,7 +592,7 @@ A（要點）：
 2. 多階段構建：
    - 構建階段只保留編譯工具
    - 執行階段只包含最終二進位制
-   - 典型場景：Go、Node.js、Java
+   - 典型情境：Go、Node.js、Java
 
 3. 清理包管理器快取：
    apt-get clean && rm -rf /var/lib/apt/lists/*
