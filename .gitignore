@@ -1,0 +1,32 @@
+# Created by .gitignore support plugin (hsz.mobi)
+*.~
+*.tmp
+.idea/
+_book/
+_site*
+format_report.txt
+*.swp
+*.edx
+.DS_Store
+
+node_modules/
+package-lock.json
+
+docker-compose.override.yml
+
+# Editor configs
+.obsidian/
+.vscode/
+
+.agent/
+__pycache__/
+.mdpress/
+Docker -- *.html
+Docker -- *_site/
+
+# Check scripts
+check*.py
+!check_project_rules.py
+find*.py
+fix*.py
+format*.py
