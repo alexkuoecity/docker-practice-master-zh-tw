@@ -8,7 +8,7 @@ about: Create a issue about Docker
 
 ### Environment
 
-<!--请提供环境信息，包括操作系统版本等，保留你的操作系统，其他选项删除-->
+<!--請提供環境資訊，包括作業系統版本等，保留你的作業系統，其他選項刪除-->
 <!--Provides env info like OS version-->
 
 * [x] Linux
@@ -23,7 +23,7 @@ about: Create a issue about Docker
 
 ### Docker Version
 
-<!--如果你的 Docker 版本低于 20.10 请尽可能升级到该版本，保留你的 Docker 版本，其他选项删除-->
+<!--如果你的 Docker 版本低於 20.10 請儘可能升級到該版本，保留你的 Docker 版本，其他選項刪除-->
 <!--if Docker version under 20.10, please upgrade Docker to 20.10-->
 
 * [x] Test (v20.10)
@@ -32,8 +32,8 @@ about: Create a issue about Docker
 
 ### Problem Description
 
-<!--描述你的问题，请贴出操作步骤，终端报错截图或文字信息-->
+<!--描述你的問題，請貼出操作步驟，終端報錯截圖或文字資訊-->
 <!--describe problem with detailed steps and logs-->
 
 
-<!--提交问题之前请点击预览标签，符合要求之后再提交问题-->
+<!--提交問題之前請點選預覽標籤，符合要求之後再提交問題-->
